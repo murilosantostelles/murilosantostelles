@@ -11,7 +11,9 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%">
+
+<br/>
 
 ### Tech Stack
 <sub>The tools I use to build robust applications</sub>
@@ -22,7 +24,9 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/black.png" width="100%">
+
+<br/>
 
 ### Where to find me
 <br/>
