@@ -1,18 +1,17 @@
 <div align="center">
 
 # Murilo Santos Telles
-### Software Engineering @ UniAcademia
+### Software Engineering | UniAcademia
 <sub>3rd Semester • Juiz de Fora, Brazil</sub>
 
 <br/>
 
-**Crafting clean, high-performance backend solutions.** Focusing on the **Java** ecosystem and **Spring Boot** architecture.
+A technology enthusiast driven by software architecture and the **Java** ecosystem.  
+<sub>Focusing on building efficient and scalable backend solutions.</sub>
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+---
 
 ### Tech Stack
 <sub>The tools I use to build robust applications</sub>
@@ -23,9 +22,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-</p>
+---
 
 ### Where to find me
 <br/>
