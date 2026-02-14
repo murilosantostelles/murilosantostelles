@@ -1,24 +1,24 @@
 <div align="center">
 
 # Murilo Santos Telles
-**Engenharia de Software - UniAcademia**
-*3º Período • Juiz de Fora, MG*
+**Software Engineering Student - UniAcademia**
+*3rd Semester • Juiz de Fora, Brazil*
 
 ---
 
-### Stack & Ferramentas
+### Tech Stack
 Aqui estão as tecnologias que utilizo para construir soluções sólidas e escaláveis.
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,docker,maven&theme=dark)](https://skillicons.dev)
 
 ---
 
-### Conecte-se comigo
+### Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_PERFIL)
 
 </div>
 
 ---
 
-### Sobre mim
-Atualmente focado no ecossistema **Java** e **Spring Framework**, desenvolvendo APIs RESTful e aprofundando conhecimentos em bancos de dados relacionais. Busco sempre aplicar as melhores práticas de Clean Code e arquitetura para entregar produtos de alta qualidade.
+### About me
+I'm a passionate developer currently specializing in the **Java** ecosystem and **Spring Framework**. My focus is on creating high-performance REST APIs and mastering relational databases. I strive for clean code, solid architecture, and continuous learning to deliver high-quality digital products.
