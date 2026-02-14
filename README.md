@@ -14,8 +14,6 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 ---
 
 ### Tech Stack
-<sub>The tools I use to build robust applications</sub>
-
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,docker,maven&theme=dark)](https://skillicons.dev)
