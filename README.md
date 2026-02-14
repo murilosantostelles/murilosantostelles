@@ -1,20 +1,35 @@
 <div align="center">
 
 # Murilo Santos Telles
-**Software Engineering - UniAcademia**
-*3rd Semester • Juiz de Fora, Brazil*
+### Software Engineering @ UniAcademia
+<sub>3rd Semester • Juiz de Fora, Brazil</sub>
 
-Software Engineering student focused on **Java** and **Spring Boot**.  
-Building clean, high-performance backend solutions.
+<br/>
 
----
+**Crafting clean, high-performance backend solutions.** Focusing on the **Java** ecosystem and **Spring Boot** architecture.
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### Tech Stack
+<sub>The tools I use to build robust applications</sub>
+
+<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,docker,maven&theme=dark)](https://skillicons.dev)
 
----
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ### Where to find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/murilo-santos-telles)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-santos-telles)
 
 </div>
