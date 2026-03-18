@@ -14,8 +14,8 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 ---
 
 ### Featured Project
-**[Pet Adoption API](https://github.com/murilosantostelles/pet-adoption-api)** <sub>A robust REST API built with Java 17, Spring Boot, and PostgreSQL.  
-Focusing on clean architecture, SOLID principles, and efficient data mapping.</sub>
+**[Pet Adoption API](https://github.com/murilosantostelles/pet-adoption-api)**   | A robust REST API built with Java 17, Spring Boot, and PostgreSQL.  
+Focusing on clean architecture, SOLID principles, and efficient data mapping.
 
 <br/>
 
@@ -38,8 +38,5 @@ Focusing on clean architecture, SOLID principles, and efficient data mapping.</s
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilosantostelles@gmail.com)
 
 <br/>
-<br/>
-
-<sub>"Design is not just what it looks like and feels like. Design is how it works."</sub>
 
 </div>
