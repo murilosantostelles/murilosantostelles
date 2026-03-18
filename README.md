@@ -14,7 +14,7 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 ---
 
 ### Featured Project
-**[Pet Adoption API](https://github.com/murilosantostelles/pet-adoption-api)**   | A robust REST API built with Java 17, Spring Boot, and PostgreSQL.  
+**[Pet Adoption API](https://github.com/murilosantostelles/pet-adoption-api)**   | A robust **REST API** built with Java, Spring Boot, and PostgreSQL.  
 Focusing on clean architecture, SOLID principles, and efficient data mapping.
 
 <br/>
