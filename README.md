@@ -1,8 +1,8 @@
 <div align="center">
 
 # Murilo Santos Telles
-### Software Engineering @ UniAcademia
-<sub>3rd Semester • Juiz de Fora, Brazil</sub>
+### Software Engineering | UniAcademia
+<sub>3rd Semester • Juiz de Fora, MG</sub>
 
 <br/>
 
