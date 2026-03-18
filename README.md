@@ -26,5 +26,7 @@ A technology enthusiast driven by software architecture and the **Java** ecosyst
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-santos-telles)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilostl)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_murilosantostelles@gmail.com)
 
 </div>
