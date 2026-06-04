@@ -7,40 +7,40 @@
 
 <br/>
 
-A technology enthusiast driven by software architecture and the **Java** ecosystem.
-<sub>Focusing on building efficient, secure, and scalable backend solutions.</sub>
+---
 
-<br/>
+## 👨‍💻 About me
+
+**A technology enthusiast driven by software architecture, cloud computing, and the Java ecosystem.**
+
+Focused on building efficient, secure, and scalable backend solutions, with a strong interest in modern cloud technologies and distributed systems. Currently developing projects with **Java + Spring Boot**, while continuously expanding my knowledge in **Cloud Computing**, software architecture, and best practices for scalable applications.
+---
+
+## 🚀 Featured Project
+
+### [📚 Bookshelf Manager](https://github.com/murilosantostelles/bookshelf-manager)
+
+**A full-stack book management system built for real use.**
+Developed for a psychologist to track her personal library and book loans.
+
+| | |
+|---|---|
+| **Backend** | Java 21, Spring Boot, Spring Security, JWT, Flyway, Caffeine Cache |
+| **Database** | PostgreSQL + Docker |
+| **Frontend** | React + Vite *(in progress)* |
+| **Quality** | JUnit, Mockito, GitHub Actions CI/CD, Swagger |
 
 ---
 
-### 🚀 Featured Project
-
-<br/>
-
-**[📚 Bookshelf Manager](https://github.com/murilosantostelles/bookshelf-manager)**
-
-A full-stack **book management system** built for real use — developed for a psychologist to track her personal library and book loans.
-
-`Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Flyway` `React` `Docker` `CI/CD`
-
-> REST API · JWT Authentication · Caffeine Cache · Unit Tests · GitHub Actions Pipeline
-
-<br/>
-
----
-
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,react,postgres,docker,maven,git,github,linux,postman&theme=dark)](https://skillicons.dev)
 
-<br/>
-
 ---
 
-### 📬 Where to find me
+## 📬 Where to find me
 
 <br/>
 
