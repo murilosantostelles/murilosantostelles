@@ -16,9 +16,10 @@
 ## 🚀 Featured Project
 
 ### [📚 Bookshelf Manager](https://github.com/murilosantostelles/bookshelf-manager)
-<sub>REST API for personal library and book loan management — built for real use by a psychologist.</sub>
 
-<sub>`Java 21` `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Flyway` `Docker` `Caffeine Cache` `JUnit` `Mockito` `GitHub Actions` `Swagger` `React` *(in progress)*</sub>
+REST API for personal library and book loan management — built for real use by a psychologist.
+
+**Stack:** Java 21 · Spring Boot · Spring Security · JWT · PostgreSQL · Flyway · Docker · Caffeine Cache · JUnit · Mockito · GitHub Actions · Swagger · React *(in progress)*
 
 ---
 
