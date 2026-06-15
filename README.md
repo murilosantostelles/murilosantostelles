@@ -1,56 +1,73 @@
-# Me chamo Murilo!
+<div align="center">
 
-## Software Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Murilo%20Santos%20Telles&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student&descAlignY=55&descSize=18&descColor=a0a0a0" width="100%"/>
 
-[cite_start]Estudante de Engenharia de Software com forte base em desenvolvimento web backend com Java e Spring Boot[cite: 1, 5]. [cite_start]Possuo experiência prática em projetos reais e acadêmicos, com domínio em estruturas de dados, algoritmos e desenvolvimento de APIs RESTful[cite: 6]. [cite_start]Busco aplicar minhas habilidades técnicas e contribuir com soluções eficientes e escaláveis[cite: 7].
+</div>
 
-<div>
-  <a href="https://linkedin.com/in/murilo-santos-telles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:murilosantostelles@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+
+**`Software Engineer`**
+
+Desenvolvedor Backend em formação, com foco em Java, Spring Boot e boas práticas de engenharia de software. Atualmente cursando Engenharia de Software na UniAcademia, construindo sistemas reais — de APIs RESTful com autenticação JWT a pipelines de CI/CD automatizados. Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento backend.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-santos-telles)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/murilosantostelles)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:murilosantostelles@gmail.com)
+
 </div>
 
 ---
 
-## 🚀 Projetos Relevantes
+## 🚀 PROJETOS EM DESTAQUE
 
-### 📚 Bookshelf Manager | [cite_start]Java, Spring Boot & React (2026) [cite: 11, 12]
+---
 
-[cite_start]Sistema web de gerenciamento de acervo pessoal de livros com controle de empréstimos, desenvolvido para uso real por uma psicóloga que precisava rastrear quais livros estavam em casa e quais estavam emprestados para pacientes[cite: 14].
+### 📚 BOOKSHELF MANAGER — SISTEMA DE GERENCIAMENTO DE ACERVO
 
-* [cite_start]**Autenticação e Autorização:** Implementei autenticação e autorização com Spring Security e JWT, garantindo isolamento total dos dados por usuário autenticado, com cada usuário acessando exclusivamente seu próprio acervo[cite: 15].
-* [cite_start]**Persistência e Versionamento:** Modelei 5 entidades relacionais com PostgreSQL utilizando Docker, gerenciando o versionamento do banco com Flyway e garantindo integridade referencial via migrations versionadas[cite: 16].
-* [cite_start]**Otimização e Testes:** Implementei cache com Caffeine nos endpoints de listagem e desenvolvi testes unitários com JUnit e Mockito, cobrindo regras de negócio críticas como impedimento de empréstimo de livro já emprestado[cite: 17].
-* [cite_start]**CI/CD e Documentação:** Configurei pipeline de CI com GitHub Actions para execução automática dos testes a cada push, e documentei todos os endpoints com Swagger[cite: 18].
+> Sistema web de gerenciamento de acervo pessoal de livros com controle de empréstimos, desenvolvido para uso real por uma psicóloga. API RESTful com autenticação JWT, isolamento de dados por usuário, cache para otimização de performance e pipeline de CI/CD automatizado com deploy em produção.
 
-<div>
-  <a href="https://github.com/murilosantostelles" target="_blank"><img src="https://img.shields.io/badge/-Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+`Java 21` · `Spring Boot` · `Spring Security` · `JWT` · `PostgreSQL` · `Flyway` · `Docker` · `Caffeine Cache` · `JUnit` · `Mockito` · `GitHub Actions` · `React` *(em desenvolvimento)*
 
-<br>
+[![Demo](https://img.shields.io/badge/Demo-00C851?style=flat&logo=googlechrome&logoColor=white)](https://bookshelf-manager-production.up.railway.app/swagger-ui/index.html)
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat&logo=github&logoColor=white)](https://github.com/murilosantostelles/bookshelf-manager)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://bookshelf-manager-production.up.railway.app/swagger-ui/index.html)
 
-### 🤖 Chatbot para ONG | [cite_start]Node.js (2026) [cite: 19, 20]
+---
 
-* [cite_start]**Atendimento Automatizado:** Desenvolvi em equipe, como projeto de extensão universitária, um chatbot de atendimento automático no WhatsApp para a ONG Sonho de Um Menino, eliminando a necessidade de resposta manual para dúvidas frequentes[cite: 22].
-* [cite_start]**Fluxo e Registro:** Implementei a lógica de fluxo de conversação com Node.js, incluindo menu interativo, registro de contatos em JSON e reenvio automático do menu após 24 horas de inatividade[cite: 23].
+### 🤖 CHATBOT PARA ONG — SONHO DE UM MENINO
 
-<div>
-  <a href="https://github.com/murilosantostelles" target="_blank"><img src="https://img.shields.io/badge/-Repositório-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+> Chatbot de atendimento automático no WhatsApp desenvolvido como projeto de extensão universitária para a ONG Sonho de Um Menino. O sistema automatiza o primeiro atendimento, elimina a necessidade de resposta manual para dúvidas frequentes e registra contatos com reenvio automático do menu após 24h de inatividade.
+
+`Node.js` · `WhatsApp Web API` · `JavaScript`
+
+[![Repositório](https://img.shields.io/badge/Repositório-181717?style=flat&logo=github&logoColor=white)](https://github.com/murilosantostelles/Chatbot-SonhoDeUmMenino)
+
+---
+
+## 🛠️ TECNOLOGIAS
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-## [cite_start]🛠️ Habilidades [cite: 24]
-
-| Categoria | Tecnologias / Competências |
-| :--- | :--- |
-| **Linguagens** | [cite_start]Java, JavaScript, Python, SQL [cite: 25] |
-| **Backend** | [cite_start]Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Hibernate, API REST, JWT, Flyway, Cache (Caffeine), Testes Unitários (JUnit 5, Mockito), Node.js [cite: 26] |
-| **Banco de Dados** | [cite_start]PostgreSQL, Modelagem de Banco de Dados [cite: 27] |
-| **Frontend** | [cite_start]React.js, HTML, CSS [cite: 28] |
-| **Cloud & DevOps** | [cite_start]Docker, Docker Compose, Git, GitHub, GitHub Actions (CI/CD), Linux [cite: 29] |
-| **Ferramentas** | [cite_start]Swagger, Postman [cite: 30] |
-| **Metodologias** | [cite_start]Scrum, Kanban, Metodologias Ágeis [cite: 31] |
-| **Idiomas** | [cite_start]Inglês B2 (Intermediário Avançado) [cite: 32] |
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+</div>
 
 ---
 
