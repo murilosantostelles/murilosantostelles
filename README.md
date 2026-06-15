@@ -65,15 +65,13 @@ Desenvolvedor Backend em formação, com foco em Java, Spring Boot e boas práti
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosantostelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosantostelles&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosantostelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosantostelles&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 </div>
