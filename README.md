@@ -44,6 +44,24 @@ Desenvolvedor Backend em formação, com foco em Java, Spring Boot e boas práti
 
 ---
 
+## 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosantostelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=a0a0ff&icon_color=a0a0ff&text_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosantostelles&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=a0a0ff&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=murilosantostelles&theme=tokyonight&hide_border=true&background=1a1a2e&stroke=a0a0ff&ring=a0a0ff&fire=ff6b6b&currStreakLabel=ffffff&sideLabels=ffffff&dates=a0a0a0&sideNums=ffffff&currStreakNum=ffffff" />
+
+</div>
+
+---
+
 ## 🛠️ TECNOLOGIAS
 
 <div align="center">
@@ -61,13 +79,6 @@ Desenvolvedor Backend em formação, com foco em Java, Spring Boot e boas práti
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-</div>
-
----
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=murilosantostelles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosantostelles&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
