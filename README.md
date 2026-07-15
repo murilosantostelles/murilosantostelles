@@ -8,7 +8,7 @@
 
 **`Software Engineer`**
 
-Desenvolvedor Backend em formação, com foco em Java, Spring Boot e boas práticas de engenharia de software. Atualmente cursando Engenharia de Software na UniAcademia, construindo sistemas reais — de APIs RESTful com autenticação JWT a pipelines de CI/CD automatizados. Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento backend.
+Desenvolvedor de Software em formação, com foco em Java, Spring Boot e boas práticas de engenharia de software. Atualmente cursando Engenharia de Software na UniAcademia, construindo sistemas reais — de APIs RESTful com autenticação JWT a pipelines de CI/CD automatizados. Busco minha primeira oportunidade de estágio para aplicar e expandir meus conhecimentos em desenvolvimento.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-santos-telles)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/murilosantostelles)
