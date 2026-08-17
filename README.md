@@ -34,7 +34,7 @@ Desenvolvedor de Software em formação, com foco em Java, Spring Boot e boas pr
 
 ---
 
-### 🤖 CHATBOT PARA ONG — SONHO DE UM MENINO
+### 🤖 CHATBOT PARA ONG 
 
 > Chatbot de atendimento automático no WhatsApp desenvolvido como projeto de extensão universitária para a ONG Sonho de Um Menino. O sistema automatiza o primeiro atendimento, elimina a necessidade de resposta manual para dúvidas frequentes e registra contatos com reenvio automático do menu após 24h de inatividade.
 
